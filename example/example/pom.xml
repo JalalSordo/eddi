@@ -16,7 +16,11 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
-
+		<dependency>
+			<groupId>io.swagger</groupId>
+			<artifactId>eddi-swagger-java-client</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
